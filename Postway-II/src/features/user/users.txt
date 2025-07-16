@@ -1,0 +1,36 @@
+{
+    "name":"Jatia Baba",
+    "email":"jatiababa@gmail.com",
+    "password":"password1",
+    "gender":"Male"
+}
+{
+  "name": "Rita Mehra",
+  "email": "ritamehra@gmail.com",
+  "password": "password2",
+  "gender": "Female"
+}
+{
+  "name": "Anil Thakur",
+  "email": "anilthakur@gmail.com",
+  "password": "password3",
+  "gender": "Male"
+}
+{
+  "name": "Neha Yadav",
+  "email": "nehayadav@gmail.com",
+  "password": "password4",
+  "gender": "Female"
+}
+{
+  "name": "Ramesh Verma",
+  "email": "rameshverma@gmail.com",
+  "password": "password5",
+  "gender": "Male"
+}
+{
+  "name": "Pooja Singh",
+  "email": "poojasingh@gmail.com",
+  "password": "password6",
+  "gender": "Female"
+}
